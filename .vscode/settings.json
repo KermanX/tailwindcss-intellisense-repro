@@ -1,0 +1,8 @@
+{
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    ["_.\\$cls`([\\s\\S]*?)`", "(\\S+)"]
+  ]
+}
